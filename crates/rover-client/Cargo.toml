@@ -18,7 +18,7 @@ houston = { path = "../houston" }
 apollo-federation-types = "0.1"
 
 # crates.io deps
-backoff = "0.3"
+backoff = "0.4"
 camino = "1"
 chrono = { version = "0.4", features = ["serde"] }
 git-url-parse = "0.4.0"
